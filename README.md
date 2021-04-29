@@ -1,1 +1,1 @@
-# PlayFlockProject/ Import Assets folder into unity project to get source code
+# PlayFlockProject/ Open project via Unity
